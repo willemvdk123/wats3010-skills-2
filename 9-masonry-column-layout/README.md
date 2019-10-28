@@ -49,7 +49,7 @@ Start by adding a css file to the index.html and creating and linking a css file
 ```
  .mason {
       column-count: 3;
-      column-width: 200px;
+      column-width: 300px;
       column-gap: 5px;
     }
 ```
